@@ -51,9 +51,7 @@ var posWords = API.shuffle([
 				{word: negWords[2]},
 				{word: negWords[3]},
 				{word: negWords[4]},
-				{word: negWords[5]},
-				{word: negWords[6]},
-				{word: negWords[7]}
+				{word: negWords[5]}
 			],
 			//Stimulus css
 			stimulusCss : {color:'#0000FF','font-size':'2.3em'}
@@ -72,9 +70,7 @@ var posWords = API.shuffle([
 				{word: posWords[2]},
 				{word: posWords[3]},
 				{word: posWords[4]},
-				{word: posWords[5]},
-				{word: posWords[6]},
-				{word: posWords[7]}
+				{word: posWords[5]}
 			],
 			//Stimulus css
 			stimulusCss : {color:'#0000FF','font-size':'2.3em'}
